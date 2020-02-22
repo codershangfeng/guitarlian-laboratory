@@ -2,3 +2,6 @@
 *.mp3
 *.m4a
 *.wav
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
